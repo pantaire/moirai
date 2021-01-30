@@ -41,4 +41,6 @@
     - sun system model dangling from ceiling
     - knight chainmail in background
     - ancient greek pillars besides entrance
-    - giant desk in middle of room
+    - giant desk in middle of room where Clotho sits and writes
+    - book holder on desk
+    - pen / quill with ink 
