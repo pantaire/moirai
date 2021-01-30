@@ -4,4 +4,5 @@ A Homage to the three Moirai, or Fates:
 Clotho, presence, the weaver  
 Lachesis, future, the measurer  
 Atropos, past, the cutter  
-who work together spinning and shaping our world. May they be honored. 
+who work together spinning and shaping our world. May they be honored.
+ 

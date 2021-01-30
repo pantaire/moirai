@@ -1,8 +1,26 @@
 ## People
-- Clotho (brown pixiecut, hair spiked, the smallest)
-- Atropos (brown updo, a little smaller than Lachesis and rounder)
-- Lachesis (hair colored blonde, a-line lob, tall and thin)
+- Clotho 
+    - brown fluffy bob
+    - the shortest of the three
+    - wearing mom jeans and a fitted yellow shirt
+
+- Atropos 
+    - darkbrown updo
+    - a little shorter than Lachesis and curvier
+    - wearing a cardigan with the upper button closed over a bodycon dress
+
+
+- Lachesis 
+    - hair colored blonde, a-line lob
+    - tall and thin
+    - wearing a tailored suit, white fitted shirt and black pumps 
+
+
 - Atropos, old
+    - grey updo
+    - hunched over, kind of like old Katara
+    - wearing a cardigan and a straight long skirt
+
 
 ## Places
 - Library
